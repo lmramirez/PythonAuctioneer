@@ -1,0 +1,4 @@
+This was a project done for ECS 145 at UC Davis. The program consists of client and server python scripts for a basic terminal-based auction system written entirely in python. 
+
+Luis Ramirez: Set up server/client connections. Figured out select/set up main loops. Helped with auctioneer methods. Wrote client class. Wrote aucclnt.py (with some help).
+Jeanna Gindi: Made window.py file (dealt with curses). Helped implement auctioneer methods. Helped with Item class implementation.
